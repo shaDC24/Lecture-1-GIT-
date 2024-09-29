@@ -1,5 +1,8 @@
 Git demo by teacher of BUET.
-Initialize the project.
+Initialize the project.  
+Initialize project with git init.  
+
+
 
 
 git init 
@@ -127,6 +130,46 @@ git clean -n
 the above command will show .. ki ki file deleete hote pare.  
 git clean -d die amra je file remove hote pare tar diretiory dekhte pari  
 git clean -di
+
+
+
+
+
+
+ami ekta commit korlem... but oi commit ta amr dorkar nai
+git revert HEAD  
+then i will give a commit message  
+git log --oneline  
+die amra committed sob msg dekhte pabo  
+git checkout ca9e639
+ca9e639 is the name of the commit die amara abr ager commit e ferot jaite parbo.  
+
+then   
+git fetch  
+git pull origin main  
+
+
+amra jodi kono commit ke akdom delete korte chai then...  
+git reset --hard 4f3c451  
+4f3c451 is the hash value of the commit  
+ei commit ta to erase hobei..porer commit  
+gulo o erase hobe.  
+
+
+
+
+git revert akdom erase kore na.. just new commit make kore  
+git reset akdom erase kore fele   
+kono tar jodi hiostory o na rakha jay tokhon amra resete --hard use kori.  
+
+
+
+git diff ....ami ki ki change korchi ta dekhabe  ekta file e   
+akhon ami jodi duite commit er moddhe difference dekhte chai  
+git diff  e84e9e6 53de04d  
+old then
+
+
 
 
 
