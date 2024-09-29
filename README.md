@@ -2,9 +2,9 @@ Git demo by teacher of BUET.
 Initialize the project.
 
 
-git init
-git add
-git commit -m "message"
+git init  
+git add 
+git commit -m "message"  
 git status
 git log
 
