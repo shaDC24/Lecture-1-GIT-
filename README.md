@@ -171,6 +171,15 @@ old then
 
 
 
+git stash  
+git stash list  
+git stash pop  
+git stash apply  
+git stash drop  
+
+
+
+
 
 
 
