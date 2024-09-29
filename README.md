@@ -97,3 +97,20 @@ git branch -D <branch name>
 the above is the force delete.  
 
 
+
+Now i will mereg two branch  
+as main is the main brach of my project and Feature-1 is just a added branch so i go to at first in the Feature branch  
+1.git checkout Feature-1  
+2.git merge master  
+then merge conflict er jonno alert dibe.  
+both rakhte chaile both accept dite hobe. 
+3.git add -A  
+4.git commit -m "merge conflict on hello.py"   
+5.git checkout main  
+6.git merge Feature-1  
+there should be no conflict.  
+7.feature-1 branch er kaj shesh.. now we can delete it.  
+git branch -D Feature-1  
+
+
+
