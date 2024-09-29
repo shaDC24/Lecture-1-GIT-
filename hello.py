@@ -53,5 +53,8 @@ print("Hello hi Bye Bye!!!")
 #main is the name of the repository's branch
 
 #git pull
+#git fetch
+#safer version of git pull is git fetch
+
 
 
