@@ -31,3 +31,27 @@ print("Hello hi Bye Bye!!!")
 #korar dorkar nai  ...ei khetre amra ignore use korte pari.
 
 #tokhon amra .gitignore file crete kori
+
+
+
+#akhon amra kono file e change korlam ....new kono commit korte chai na..
+#commit ta ammend korbo just ..amader last comment ta edit hobe.
+
+#git commit --amend -m "added some comments in hello.py"
+#git log --oneline
+
+
+#to keep the project in a repository
+#git remote add origin https://github.com/shaDC24/Lecture-1-GIT-.git
+#git push 
+#for setting the upstream
+#git push --set-upstream origin main
+#git push origin main
+
+#amra chaile remove o koprte pari
+#git remote rm main
+#main is the name of the repository's branch
+
+#git pull
+
+
