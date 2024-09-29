@@ -120,3 +120,17 @@ git push origin --delete Feature-1
 
 
 
+kono untrack file thakle we can delete the file.
+amra jodi commit na kore file ta deleete korte chai ..then  
+git clean -f   
+git clean -n  
+the above command will show .. ki ki file deleete hote pare.  
+git clean -d die amra je file remove hote pare tar diretiory dekhte pari  
+git clean -di
+
+
+
+
+
+
+
