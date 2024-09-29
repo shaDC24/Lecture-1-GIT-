@@ -110,7 +110,13 @@ both rakhte chaile both accept dite hobe.
 6.git merge Feature-1  
 there should be no conflict.  
 7.feature-1 branch er kaj shesh.. now we can delete it.  
-git branch -D Feature-1  
+git branch -D Feature-1 
+The command you ran only deletes the local branch.  
+ If the branch still exists on the remote repository (e.g., GitHub, GitLab), it will still be visible there. To check whether the branch exists on the remote repository, you can use the following command:  
+git branch -r   
+If the branch still exists on the remote repository and you want to delete it from there as well, use this command:  
+git push origin --delete Feature-1
+
 
 
 
