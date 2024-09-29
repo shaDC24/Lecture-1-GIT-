@@ -2,22 +2,22 @@ Git demo by teacher of BUET.
 Initialize the project.
 
 
-#git init
-#git add
-#git commit -m "message"
-#git status
-#git log
+git init
+git add
+git commit -m "message"
+git status
+git log
 
 
 
-#wsl
-#ls
-#ls -all
+wsl
+ls
+ls -all
 
 
-#cd .git
-#ls
-#logout
+cd .git
+ls
+logout
 
 
 #git add-A ..........project er sobgulo file will be checked
